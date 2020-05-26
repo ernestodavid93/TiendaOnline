@@ -1,0 +1,151 @@
+        /**NAV**/
+        
+        .navbar {
+            background-color: black;
+        }
+        
+        .colapse ul li {
+            list-style: none;
+        }
+        
+        .menu-bar li a {
+            margin-right: 3rem;
+        }
+        
+        .menu-bar li {
+            list-style: none;
+            display: inline-flex;
+        }
+        
+        .nav-link {
+            color: white !important;
+        }
+        
+        .barras {
+            color: white !important;
+        }
+        /**INDEX CARDS**/
+        
+        .container {
+            display: grid;
+            grid-template-columns: 33% 33% 33%;
+        }
+        
+        .card {
+            margin-bottom: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .card-link {
+            margin-bottom: 1rem;
+        }
+        
+        .card-body {
+            text-align: center;
+        }
+        
+        .card-title {
+            font-size: 2rem;
+        }
+        
+        .precio {
+            font-size: 2rem;
+            color: royalblue;
+            font-weight: bold;
+        }
+        
+        .star ul li {
+            list-style: none;
+            display: inline-block;
+            color: black;
+            margin-left: 1rem;
+        }
+        /**FOOTER**/
+        
+        footer {
+            background-color: rgb(52, 58, 58);
+            text-align: center;
+            padding-top: 1rem;
+        }
+        
+        footer p {
+            text-align: justify;
+            color: whitesmoke;
+            font-size: 0.9rem;
+        }
+        
+        footer h4 {
+            color: white;
+        }
+        
+        ul.redes li {
+            display: inline-block;
+            margin-right: 1rem;
+            margin-top: 0.5rem;
+        }
+        
+        ul.redes li a {
+            color: yellow;
+        }
+        
+        .avatar {
+            border: 5px solid white;
+            border-radius: 50%;
+            float: left;
+            height: 100px;
+            width: 100px;
+            margin-right: 1rem;
+        }
+        /**SHOW**/
+        
+        .contenido {
+            text-align: center;
+        }
+        
+        .imagen {
+            text-align: center;
+        }
+        
+        .boton-regresar {
+            margin-left: 3rem;
+            display: flex;
+        }
+        
+        .boton-regresar .continuar {
+            margin-left: 2rem;
+        }
+        /**SLIDER**/
+        
+        div.slide {}
+        
+        h5 {
+            font-size: 5rem;
+            color: black;
+            font-family: 'Lexend Giga', sans-serif;
+        }
+        
+        p.p-info {
+            font-size: 1.8rem;
+            color: white;
+            font-family: 'PT Sans Narrow', sans-serif;
+        }
+        /**CARRITO**/
+        
+        .table-cart {
+            background: #ffffff;
+            border-radius: 1rem;
+            margin-bottom: 100px;
+            padding: 3rem;
+        }
+        
+        .conta h1 {
+            padding-top: 2rem;
+        }
+        
+        h3 {
+            text-align: center;
+        }
+        
+        .boton-continuar {
+            text-align: center;
+        }
